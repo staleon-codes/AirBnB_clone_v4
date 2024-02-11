@@ -156,5 +156,5 @@ No known bugs at this time.
 ## Authors
 Leonard Mbasela - mbaselaleon@gmail.com   
 Peter McMillan - petermcmillan25@gmail.com 
-J- 
-
+Jennifer Huang <133@holbertonschool.com>
+Alexa Orrico <210@holbertonschool.com>
