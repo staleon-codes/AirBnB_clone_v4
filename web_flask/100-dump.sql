@@ -18,7 +18,7 @@
 -- Drop database
 DROP DATABASE IF EXISTS hbnb_dev_db;
 
--- Create database + user if doesn't exist
+-- Make database + user if doesn't exist
 CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 CREATE USER IF NOT EXISTS 'hbnb_dev'@'localhost';
 SET PASSWORD FOR 'hbnb_dev'@'localhost' = 'hbnb_dev_pwd';
